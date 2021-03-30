@@ -1,13 +1,15 @@
 ### Hello 👋
 
-My name is Nora Curcio, I am a Web Developer. 
-I have a passion for front end development. 
-I love Javascript and React!
+My name is Nora Curcio and I am a Web Developer. 
+I have a passion for front end development, specifically Javascript and React.
 
-- ⛰Currently working on building a new website for The Colorado Concierge & an updated portfolio with a blog.  
-- 🌱 I’m currently learning PHP and Typescript
-- 💬 Feel free to ask me about any of my projects. 
-- 📫 Get in contact! : noracurcio@gmail.com
+## Currently I am...
+- ⛰ Working on building a new website for The Colorado Concierge & an updated portfolio with a blog.  
+- 🌱 Learning PHP and Typescript
+
+
+Feel free to ask me about any of my projects. 
+Get in contact : noracurcio@gmail.com
 
 Languages - 
 Javascript | HTML | CSS 
