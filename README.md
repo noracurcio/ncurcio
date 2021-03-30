@@ -1,4 +1,4 @@
-### Hi, Nice to meet you! 👋
+### Hello 👋
 
 My name is Nora Curcio, I am a Web Developer. 
 I have a passion for front end development. 
