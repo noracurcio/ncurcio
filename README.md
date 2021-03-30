@@ -1,6 +1,7 @@
-### Hello 👋
+# Hello 👋
 
 My name is Nora Curcio and I am a Web Developer. 
+
 I have a passion for front end development, specifically Javascript and React.
 
 ## Currently I am...
