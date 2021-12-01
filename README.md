@@ -1,7 +1,7 @@
 
 ### Hi, Nice to meet you! 👋
 
-My name is Nora Curcio and I am a Web Developer.
+My name is Nora Curcio, I am a Web Developer based in Boulder, CO. 
 
 
 💬 Feel free to ask me about any of my projects.
